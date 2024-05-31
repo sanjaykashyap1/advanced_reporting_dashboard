@@ -108,9 +108,6 @@ For a video demonstration of the application, please watch this YouTube video:
 
 [![Performance Dashboard Demo](https://img.youtube.com/vi/Dwd0LCfZY_I/0.jpg)](https://youtu.be/Dwd0LCfZY_I)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
