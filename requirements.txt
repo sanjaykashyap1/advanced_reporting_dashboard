@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+joblib
+prophet
+matplotlib
+seaborn
+reportlab
