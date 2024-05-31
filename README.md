@@ -1,6 +1,6 @@
 # Performance Dashboard
 
-This project is a Performance Dashboard built using Streamlit, Prophet, Plotly, and other libraries. It loads data from an Excel file, displays key performance metrics, and generates predictions for future performance using trained Prophet models. Additionally, it allows users to generate and download a PDF report of the performance data.
+This project is a Performance Dashboard built using Streamlit, Prophet, Plotly, and other libraries. It loads data from the data source, displays key performance metrics, generates a pdf report for the selected date range and generates predictions for future performance using trained Prophet models. Additionally, it allows users to generate and download a PDF report of the performance data.
 
 ## Features
 
